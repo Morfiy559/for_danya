@@ -56,9 +56,9 @@ try {
 
     $mail->setFrom('mberdenev@mail.ru', 'Mailer');
 
-    $mail->addAddress('mberdenev99@gmail.com');     //Add a recipient
+    $mail->addAddress('dan.padaleki@yandex.ru');     //Add a recipient
 
-    // $mail->addAddress('ellen@example.com');               //Name is optional
+    $mail->addAddress('carequality_store@mail.ru');               //Name is optional
 
     // $mail->addReplyTo('info@example.com', 'Information');
 
